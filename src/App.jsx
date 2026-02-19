@@ -1,6 +1,6 @@
 import './App.css'
 import { useState } from 'react'
-import Usercard from './components/Usercard'
+import Usercard from './components/UserCard'
 
 
 

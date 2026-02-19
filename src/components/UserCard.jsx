@@ -1,4 +1,4 @@
-import './Usercard.css'
+import './UserCard.css'
 
 function Usercard({ nome, email, age }) {
 
