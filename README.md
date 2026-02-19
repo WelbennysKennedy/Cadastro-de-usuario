@@ -4,6 +4,10 @@ Aplicação web feita com **React + Vite** para cadastro rápido de usuários.
 
 A interface segue o estilo da imagem de referência: fundo escuro, formulário com borda neon animada, botão com gradiente azul/rosa e lista de cards com avatar gerado automaticamente.
 
+## Deploy
+
+- Aplicação online: https://welbennyskennedy.github.io/Cadastro-de-usuario/
+
 ## Preview
 
 ![Preview do formulário](src/assets/formulario.png)
