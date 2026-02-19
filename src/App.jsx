@@ -1,6 +1,6 @@
 import './App.css'
 import { useState } from 'react'
-import Usercard from './components/UserCard'
+import UserCard from './components/UserCard'
 
 
 
@@ -51,7 +51,7 @@ function App() {
 
 
         {users.map((user, index) => (
-          <Usercard key={index} nome={user.nome} email={user.email} age={user.age} />
+          <UserCard key={index} nome={user.nome} email={user.email} age={user.age} />
         ))}
 
       </div>

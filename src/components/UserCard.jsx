@@ -1,6 +1,6 @@
 import './UserCard.css'
 
-function Usercard({ nome, email, age }) {
+function UserCard({ nome, email, age }) {
 
     return (
         <div className='user-card'>
@@ -24,4 +24,4 @@ function Usercard({ nome, email, age }) {
 
 
 
-export default Usercard
+export default UserCard
